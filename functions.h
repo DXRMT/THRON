@@ -3,9 +3,9 @@
 #define LEFT 'a'
 #define RIGHT 'd'
 
-#define RED 0x00FF0F3F
-#define BLUE 0x003080FF
-#define PURPLE 0x00FF00FF
+#define RED 0x00FF0000
+#define BLUE 0x00F3F200
+#define PURPLE 0x00F1F2F3
 
 int work_flag = 1;
 int start_flag = 0;
